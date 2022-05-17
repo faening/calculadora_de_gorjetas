@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="img_description">Logotipo</string>
+
+    // Dados da venda
+    <string name="txt_titulo_dados_pedido">Pedido</string>
+    <string name="txt_valor_pedido">Total do pedido (R$)</string>
+    <string name="inp_valor_pedido">Ex: 45.98</string>
+
+    // Extra
+    <string name="txt_titulo_valores_adicionais">Adicionais</string>
+    <string name="txt_percentual_gorjeta">Gorjeta (0% a 30%)</string>
+
+    // Totais
+    <string name="txt_titulo_totalizador">Total</string>
+    <string name="txt_valor_total_pedido">Pedido (R$)</string>
+    <string name="txt_res_valor_total_pedido">0,00</string>
+    <string name="txt_valor_total_gorjeta">Gorjeta (R$)</string>
+    <string name="txt_res_valor_total_gorjeta">0,00</string>
+    <string name="txt_valor_total_geral">TOTAL GERAL (R$)</string>
+    <string name="txt_res_valor_total_geral">0,00</string>
+</resources>
